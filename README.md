@@ -1,6 +1,9 @@
 # 👋 Hey there, I’m Anuj Sir
 
 Welcome to my digital garage — where I'm building, breaking, and leveling up every day 💻🚀
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anujshukla123/AnujShukla/main/generated-image.png" alt="Anuj Shukla - GitHub Banner" width="100%" />
+</p>
 
 ## 👨‍💻 About Me
 - 🧠 Engineer by profession, Backend Developer by passion
