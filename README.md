@@ -17,19 +17,19 @@ Welcome to my digital garage — where I'm building, breaking, and leveling up e
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 💻 Projects
-- 🔧 [Spring Boot CRUD App](https://github.com/anuj-sir/springboot-crud-api)
-- 🧠 [DSA Daily Practice](https://github.com/anuj-sir/daily-dsa)
-- 🛒 [Mini E-Commerce Backend](https://github.com/anuj-sir/ecommerce-api)
-- 📘 [Java Notes + Cheat Sheets](https://github.com/anuj-sir/java-dev-notes)
+- 🔧 [Spring Boot CRUD App](https://github.com/anujshukla123/springboot-crud-api)
+- 🧠 [DSA Daily Practice](https://github.com/anujshukla123/daily-dsa)
+- 🛒 [Mini E-Commerce Backend](https://github.com/anujshukla123/ecommerce-api)
+- 📘 [Java Notes + Cheat Sheets](https://github.com/anujshukla123/java-dev-notes)
 
 ## 📊 GitHub Stats
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuj-sir&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anuj-sir&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-sir&layout=compact&theme=radical)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujshukla123&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anujshukla123&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujshukla123&layout=compact&theme=radical)
 
 ## 📫 Let’s Connect
-- 🌐 [LinkedIn](https://linkedin.com/in/your-link)
-- 💌 Email: anuj.yourname@email.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/anuj-shukla-7b17b1189/)
+- 💌 Email: anujshukla8520@gmail.com
 - ⚡ Fun Fact: I believe in "1% better every day" — compound growth in code and life.
 
 ---
